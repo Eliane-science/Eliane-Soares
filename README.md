@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Eliane Soares.
 
 <p>📚 - Atualmente sou estudante</p>
-<p>🖥 - Sou estudante de Ciência da computação na Universidade Paulista</p>
+<p>🖥 -  Estou cursando Ciência da computação na Universidade Paulista</p>
 <p>👩🏼 - Pronomes: Ela/dela</p>
 <div>
   <a href="https://[github.com/Eliane-Soares](https://github.com/Eliane-science)">
